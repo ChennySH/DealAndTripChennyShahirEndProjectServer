@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealAndTripChennyShahirEndProjectServer", "DealAndTripChennyShahirEndProjectServer.csproj", "{AC219EDB-6357-46BF-83D6-615F2F46519B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealAndTripChennyShahirEndProjectServerBL", "..\DealAndTripChennyShahirEndProjectServerBL\DealAndTripChennyShahirEndProjectServerBL.csproj", "{E04E7E56-2291-48F5-88D2-B372427DE06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC219EDB-6357-46BF-83D6-615F2F46519B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC219EDB-6357-46BF-83D6-615F2F46519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC219EDB-6357-46BF-83D6-615F2F46519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC219EDB-6357-46BF-83D6-615F2F46519B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04E7E56-2291-48F5-88D2-B372427DE06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04E7E56-2291-48F5-88D2-B372427DE06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04E7E56-2291-48F5-88D2-B372427DE06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04E7E56-2291-48F5-88D2-B372427DE06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA26497-2C97-4A80-906B-19A0014885A8}
+	EndGlobalSection
+EndGlobal
