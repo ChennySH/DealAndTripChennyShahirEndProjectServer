@@ -10,6 +10,7 @@ using System.Text.Json.Serialization;
 
 namespace DealAndTripChennyShahirEndProjectServer
 {
+
     public static class SessionExtensions
     {
         //The first parameter (this) in a static function define an extention method to the class type mentioned after the "this" param!
