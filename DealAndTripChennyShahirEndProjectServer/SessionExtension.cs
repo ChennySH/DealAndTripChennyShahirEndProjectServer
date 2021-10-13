@@ -16,6 +16,7 @@ namespace DealAndTripChennyShahirEndProjectServer
         //The first parameter (this) in a static function define an extention method to the class type mentioned after the "this" param!
         //It is a cosmetic method that allow developers to wrte the GetObject method as if it was originally written as part of the class.
         //It does not provide access to any private members in the class! Only replace the alternative of having a static function that gets the object as first param.
+
         public static T GetObject<T>(this ISession session, string key)
         {
             JsonSerializerOptions options = new JsonSerializerOptions

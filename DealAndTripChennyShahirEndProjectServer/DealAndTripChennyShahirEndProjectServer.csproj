@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Folder Include="DTO\" />
-    <Folder Include="Wwwroot\" />
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>
